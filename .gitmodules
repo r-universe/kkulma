@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "intensegRid"]
+	path = intensegRid
+	url = https://github.com/kkulma/intensegrid
+	shallow = true
+	registered = true
